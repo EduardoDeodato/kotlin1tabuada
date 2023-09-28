@@ -1,0 +1,6 @@
+for(x in 1..10){ 
+        pf=x 
+        for (i in 1..10){ 
+            resultado=pf*i 
+   printin("$pf x $i é igual a $resultado")
+}
